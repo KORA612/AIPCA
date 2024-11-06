@@ -1,4 +1,3 @@
-# Create a new file setup_db.py in your scripts directory
 from setup_mongodb import MongoDBSetup
 
 
