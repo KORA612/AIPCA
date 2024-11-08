@@ -16,8 +16,3 @@ repos:
     rev: 5.12.0
     hooks:
     -   id: isort      # Sorts Python imports alphabetically and separates them into sections
-
--   repo: https://github.com/pycqa/flake8
-    rev: 6.1.0
-    hooks:
-    -   id: flake8     # Checks Python code for style and quality issues
