@@ -16,6 +16,7 @@ ENV/
 # Local development settings
 .env
 *.log
+*.rdb
 logs/
 
 # Distribution / packaging
